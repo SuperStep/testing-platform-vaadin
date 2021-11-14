@@ -4,11 +4,15 @@ This is a prototype testing platform where you can create tests with questions,
 set influence points for positive or negative answers.
 This helps to determine psychological type of interviewer.
 
-<div style="width:100%;height:0;padding-bottom:59%;position:relative;"><iframe src="https://giphy.com/embed/bEsc1JmYE0XI0iL18a" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/bEsc1JmYE0XI0iL18a"></a></p>
+<p align="center">
+<img align="center" src=".github/demo/gif/Answering.gif" width="100%" alt="Answering"/>
+</p>
 
 You are able to create tests with questions and set influence on each psychological type.
 
-<div style="width:100%;height:0;padding-bottom:59%;position:relative;"><iframe src="https://giphy.com/embed/SutgA0iagWfNKcLk70" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/SutgA0iagWfNKcLk70">via GIPHY</a></p>
+<p align="center">
+<img align="center" src=".github/demo/gif/CreateingTests.gif" width="100%" alt="Creating tests"/>
+</p>
 
 # Default user
 user: admin@admin.com
