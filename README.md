@@ -11,7 +11,7 @@ This helps to determine psychological type of interviewer.
 You are able to create tests with questions and set influence on each psychological type.
 
 <p align="center">
-<img align="center" src=".github/demo/gif/CreateingTests.gif" width="100%" alt="Creating tests"/>
+<img align="center" src=".github/demo/gif/CreatingTests.gif" width="100%" alt="Creating tests"/>
 </p>
 
 # Default user
