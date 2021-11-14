@@ -1,0 +1,9 @@
+
+spring:
+  application:
+    name: ses-service
+
+email:
+  region: eu-central-1
+  sender: your@mail.com
+
