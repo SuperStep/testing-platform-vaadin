@@ -12,3 +12,4 @@ vscode:
     - pivotal.vscode-spring-boot
     - vscjava.vscode-spring-initializr
     - vscjava.vscode-java-test
+    - dotjoshjohnson.xml
